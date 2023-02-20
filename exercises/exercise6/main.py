@@ -2,7 +2,6 @@
 
 numero = 6
 
-for x in range( 1, 11 ):
+for x in range(1, 11):
     resultado = x * numero
-    print(x,"X", numero, "=", resultado)
-
+    print(x, "X", numero, "=", resultado)
